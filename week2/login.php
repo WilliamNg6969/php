@@ -5,7 +5,7 @@
         </style>
     </head>
     <body>
-        <?
+        <?php
       define("username","admin");
       define("password","12345");
         
